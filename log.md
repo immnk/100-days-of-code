@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: November 5th, 2018
-##### (delete me or comment me out)
 
 **Today's Progress**: Worked on learning JS basics again.
 
