@@ -8,10 +8,18 @@
 
 **Link to work:** [Front end certification](https://www.freecodecamp.org/immanikanta)
 
-### Day 1: November 7th, 2018
+### Day 2: November 7th, 2018
 
 **Today's Progress**: Worked on learning JS basics again.
 
 **Thoughts:** Skipped on Diwali. Added 2 hours today.
 
 **Link to work:** [Front end certification](https://www.freecodecamp.org/immanikanta)
+
+### Day 3: November 7th, 2018
+
+**Today's Progress**: Worked on learning CI-CD on a firebase project with travis
+
+**Thoughts:** This is fun.
+
+**Link to work:** [Github](https://github.com/immnk/aradhana-api/tree/hosting)
