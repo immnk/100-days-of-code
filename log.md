@@ -47,3 +47,35 @@
 **Thoughts:** Integrated Renovate Bot into the project. Started using SCSS and making use of webpack to compile and build and deploy to gh-pages
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+### Day 4: January 16th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Making project more modular to introduce more features of webpack. Added git issue templates.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+### Day 4: January 17th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Adding unit tests and code coverage plugins to automate the entire workflow.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+### Day 4: January 18th, 2019
+
+**Today's Progress**: Debugging issues for mocha unit tests with nyc for code coverage
+
+**Thoughts:** Adding unit tests and code coverage plugins to automate the entire workflow.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+### Day 4: January 19th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Adding unit tests and code coverage plugins to automate the entire workflow.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
