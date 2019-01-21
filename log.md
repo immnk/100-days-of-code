@@ -8,7 +8,7 @@
 
 **Link to work:** [Front end certification](https://www.freecodecamp.org/immanikanta)
 
-### Day 2: November 7th, 2018
+## Day 2: November 7th, 2018
 
 **Today's Progress**: Worked on learning JS basics again.
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [Front end certification](https://www.freecodecamp.org/immanikanta)
 
-### Day 3: November 7th, 2018
+## Day 3: November 7th, 2018
 
 **Today's Progress**: Worked on learning CI-CD on a firebase project with travis
 
@@ -24,7 +24,7 @@
 
 **Link to work:** [Github](https://github.com/immnk/aradhana-api/tree/hosting)
 
-### Day 4: January 13th, 2019
+## Day 4: January 13th, 2019
 
 **Today's Progress**: Started learning webpack on vanilla JS
 
@@ -32,7 +32,7 @@
 
 **Link to work:** [Github](https://github.com/immnk/webpack-testing/issues?utf8=%E2%9C%93&q=is%3Aissue+)
 
-### Day 4: January 14th, 2019
+## Day 5: January 14th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -40,7 +40,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 15th, 2019
+## Day 6: January 15th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -48,7 +48,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 16th, 2019
+## Day 7: January 16th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -56,7 +56,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 17th, 2019
+## Day 8: January 17th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -64,7 +64,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 18th, 2019
+## Day 9: January 18th, 2019
 
 **Today's Progress**: Debugging issues for mocha unit tests with nyc for code coverage
 
@@ -72,7 +72,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 19th, 2019
+## Day 10: January 19th, 2019
 
 **Today's Progress**: Making progress with webpack
 
