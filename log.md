@@ -32,7 +32,7 @@
 
 **Link to work:** [Github](https://github.com/immnk/webpack-testing/issues?utf8=%E2%9C%93&q=is%3Aissue+)
 
-### Day 4: January 14th, 2019
+### Day 5: January 14th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -40,7 +40,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 15th, 2019
+### Day 6: January 15th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -48,7 +48,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 16th, 2019
+### Day 7: January 16th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -56,7 +56,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 17th, 2019
+### Day 8: January 17th, 2019
 
 **Today's Progress**: Making progress with webpack
 
@@ -64,7 +64,7 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 18th, 2019
+### Day 9: January 18th, 2019
 
 **Today's Progress**: Debugging issues for mocha unit tests with nyc for code coverage
 
@@ -72,10 +72,18 @@
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
 
-### Day 4: January 19th, 2019
+### Day 10: January 19th, 2019
 
 **Today's Progress**: Making progress with webpack
 
 **Thoughts:** Adding unit tests and code coverage plugins to automate the entire workflow.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+### Day 11: Feb 10th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Loading html via require template
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
