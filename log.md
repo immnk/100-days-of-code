@@ -87,3 +87,11 @@
 **Thoughts:** Loading html via require template
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+## Day 12: Feb 11th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Writing tests for modules using mocha and using require hooks to stub some modules
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
