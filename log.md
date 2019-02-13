@@ -95,3 +95,19 @@
 **Thoughts:** Writing tests for modules using mocha and using require hooks to stub some modules
 
 **Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+## Day 13: Feb 12th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Making application to be mobile friendly
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
+
+## Day 14: Feb 13th, 2019
+
+**Today's Progress**: Making progress with webpack
+
+**Thoughts:** Making application to be mobile friendly. Fix general issues. Understanding and using rem.
+
+**Link to work:** [Github](https://immnk.github.io/webpack-testing/)
